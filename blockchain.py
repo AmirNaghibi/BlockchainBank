@@ -32,6 +32,7 @@ class Block:
                str(self.previous_hash).encode("utf-8"))
     return sha.hexdigest()
 
+  # Find the meaning of this function
   def __repr__( self ):
         return "Block<\n  index: {},\n  timestamp: {},\n  data: {},\n  previous_hash: {},\n  hash: {}>".format(
           self.index, self.timestamp, self.data, self.previous_hash, self.hash)
