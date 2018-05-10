@@ -1,5 +1,8 @@
 # Blockchain Bank
-<<<<<<< HEAD
-=======
+Implement core banking system with blockchain technology.
 
->>>>>>> d055a44bff174f10cd8f5494d49acf4b2d28d600
+# Technologies:
+- Banking Infrastructure
+- Blockchain
+- CI/CD
+- Cloud (Azure, AWS, GCP)
