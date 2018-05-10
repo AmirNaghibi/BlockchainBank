@@ -1,4 +1,5 @@
 # TO BE REVIEWED
+# LEARN HOW TO RUN
 ###########################
 #  build your own blockchain from scratch in python3!
 #
