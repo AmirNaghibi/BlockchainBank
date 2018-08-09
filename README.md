@@ -1,8 +1,3 @@
-# Blockchain Bank
-Implement core banking system with blockchain technology.
+# Genesis
 
-# Technologies:
-- Banking Infrastructure
-- Blockchain
-- CI/CD
-- Cloud (Azure, AWS, GCP)
+Implementation of Blockchain data structure in Java.
