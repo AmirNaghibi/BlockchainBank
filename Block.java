@@ -15,8 +15,17 @@ public class Block{
         Object[] contents = {Arrays.hashCode(transactions), previousHash};
         this.blockHash = Arrays.hashCode(contents);
     }
-    
 
-    public static void main(String[] args) {
+
+    public int getPreviousHash() {
+        return previousHash;
+    }
+
+    public String[] getTransactions() {
+        return transactions;
+    }
+
+    public int getBlockHash() {
+        return blockHash;
     }
 }
